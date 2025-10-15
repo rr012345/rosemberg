@@ -1,0 +1,30 @@
+{
+  "id": "https://rr012345.github.io/rosemberg/iiif/011_Rose_rose_Rio_13x18_A/manifest/canvas-7.json",
+  "items": [
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/011_Rose_rose_Rio_13x18_A/manifest/page-7.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/011_Rose_rose_Rio_13x18_A/manifest/image-7.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://rr012345.github.io/rosemberg/iiif/011_Rose_rose_Rio_13x18_A/manifest/canvas-7.json",
+          "body": {
+            "id": "https://rr012345.github.io/rosemberg/iiif/011_Rose_rose_Rio_13x18_A/7/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 1535,
+            "width": 2126
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 2126,
+  "height": 1535,
+  "annotations": []
+}

@@ -1,23 +1,15 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez",
-  "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
+  "base": "https://rr012345.github.io",
+  "baseurl": "/rosemberg",
+  "title": "Rosemberg Sandoval",
+  "subtitle": "Muerte, Dolor, Violemcia, Marginalidad",
+  "credits": "Por Juan Echeverría | Imagenes cortesía Rosemberg Sandoval",
+  "copyright": "Todos los derechos reservados, 2026",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
-      {
-        "key": "label",
-        "label": "Nombre",
-        "type": "text"
-      },
       {
         "key": "autor",
         "label": "Autor",
@@ -27,12 +19,29 @@ const config = {
         "key": "fecha",
         "label": "Fecha",
         "type": "text"
+      },
+      {
+        "key": "descripcion",
+        "label": "Descripción",
+        "type": "text"
+      },
+      {
+        "key": "medio",
+        "label": "Medio",
+        "type": "text"
+      },
+      {
+        "key": "gesto",
+        "label": "Gesto",
+        "type": "text"
       }
     ],
     "metadataToIndex": [
       "label",
-      "autor",
-      "fecha"
+      "fecha",
+      "descripcion",
+      "medio",
+      "gesto"
     ]
   }
 };

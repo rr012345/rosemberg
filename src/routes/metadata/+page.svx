@@ -9,17 +9,23 @@ layout: page
 
 # Metadatos
 
-En esta sección se encuentran los metadatos de la colección. Pueden descargarse y usarse libremente.
+Estos metadatos constituyen un acercamiento a un posible catálogo o inventario de performances del artista Rosemberg Sandoval. Su función principal es documentar y clasificar sus obras de manera sistemática y conceptual.
 
-## Protocolo
+# Protocolo
 
-Este es el protocolo que especifica la construcción de los datos de la colección:
+Este protocolo de datos sistematiza el registro de performances artísticos, enfocándose en capturar y clasificar su dimensión conceptual y temática para facilitar la documentación, el análisis y la conceptualización de estas obras.
 
-| Dato   | Descripción                                                                     |  Tipo      |
-|---     |---                                                                              |---         |
-| pid    | Identificador único                                                             | categórico |
-| label  | Nombre de la obra. Iniciales con mayúsculas                                     | categórico |
-| autor  | Autor de la obra. Inciales con mayúsculas, incluir acentos                      | categórico |
-| fecha  | Año aproximado de producción de la obra. Escrito en número completo (p.ej 1589) | ordinal    |
+| Dato         | Descripción                                                                    |  Tipo      |
+|---           |---                                                                             |---         |
+| pid          | Identificador único                                                            | categórico |
+| label        | Título de la obra                                                              | categórico |
+| autor        | Autor de la obra                                                               | categórico |
+| fecha        | Año de realización                                                             | ordinal    |
+| descripcion  | Narrativa detallada de la acción y los materiales utilizados                   | categórico |
+| medio        | En este caso, siempre "Performance"                                            | categórico |
+| gesto        | Tema o concepto central que define la obra                                            | categórico |
 
 <MetadataTable />
+
+# Aviso de uso de los datos:
+La información contenida en este conjunto de datos se proporciona exclusivamente para fines educativos, de investigación o de estudio. Su uso está permitido siempre y cuando se otorgue el crédito correspondiente al artista, _Rosemberg Sandoval_, y se cite la fuente de origen de este ejercicio. __Queda prohibido cualquier uso comercial o no autorizado de los mismos.__

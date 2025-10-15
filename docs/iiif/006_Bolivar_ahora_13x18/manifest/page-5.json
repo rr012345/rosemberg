@@ -1,0 +1,21 @@
+{
+  "id": "https://rr012345.github.io/rosemberg/iiif/006_Bolivar_ahora_13x18/manifest/page-5.json",
+  "items": [
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/006_Bolivar_ahora_13x18/manifest/image-5.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://rr012345.github.io/rosemberg/iiif/006_Bolivar_ahora_13x18/manifest/canvas-5.json",
+      "body": {
+        "id": "https://rr012345.github.io/rosemberg/iiif/006_Bolivar_ahora_13x18/5/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 2126,
+        "width": 1535
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

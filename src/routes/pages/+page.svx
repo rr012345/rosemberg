@@ -8,9 +8,9 @@ layout: page
   import Gallery from '$components/Gallery.svelte';
 </script>
 
-# Explorar
+# Descubre la colección
 
-Usa los componentes interactivos para explorar los ítems de la colección:
+Utiliza las visualizaciones interactivas para navegar y conectar las obras de la colección.
 
 <SearchBar />
 <Gallery filters={["label", "autor"]}/>

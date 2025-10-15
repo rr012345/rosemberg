@@ -1,0 +1,21 @@
+{
+  "id": "https://rr012345.github.io/rosemberg/iiif/009_morgue_13x18_A/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/009_morgue_13x18_A/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://rr012345.github.io/rosemberg/iiif/009_morgue_13x18_A/manifest/canvas-0.json",
+      "body": {
+        "id": "https://rr012345.github.io/rosemberg/iiif/009_morgue_13x18_A/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1535,
+        "width": 2126
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

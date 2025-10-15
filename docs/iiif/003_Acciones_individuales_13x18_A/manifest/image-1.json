@@ -1,0 +1,15 @@
+{
+  "id": "https://rr012345.github.io/rosemberg/iiif/003_Acciones_individuales_13x18_A/manifest/image-1.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://rr012345.github.io/rosemberg/iiif/003_Acciones_individuales_13x18_A/manifest/canvas-1.json",
+  "body": {
+    "id": "https://rr012345.github.io/rosemberg/iiif/003_Acciones_individuales_13x18_A/1/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 1535,
+    "width": 2126
+  }
+}

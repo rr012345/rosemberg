@@ -1,0 +1,402 @@
+{
+  "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "12 de marzo de 1982"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-0.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-1.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-1.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-1.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-1.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-2.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-2.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-2.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-2.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-3.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-3.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-3.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-3.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-4.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-4.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-4.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-4.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-5.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-5.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-5.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-5.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-6.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-6.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-6.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-6.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/6/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-7.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-7.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-7.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-7.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-8.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-8.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-8.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-8.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/8/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2126,
+                "width": 1535
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1535,
+      "height": 2126,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-9.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-9.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-9.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-9.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/9/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-10.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-10.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-10.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-10.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/10/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2126,
+                "width": 1535
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1535,
+      "height": 2126,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-11.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-11.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-11.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-11.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/11/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2126,
+                "width": 1535
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1535,
+      "height": 2126,
+      "annotations": []
+    },
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-12.json",
+      "items": [
+        {
+          "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/page-12.json",
+          "items": [
+            {
+              "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/image-12.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/manifest/canvas-12.json",
+              "body": {
+                "id": "https://rr012345.github.io/rosemberg/iiif/002_12 de marzo_13x18_A/12/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1535,
+                "width": 2126
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2126,
+      "height": 1535,
+      "annotations": []
+    }
+  ]
+}

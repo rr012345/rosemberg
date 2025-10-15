@@ -3,15 +3,8 @@ name: home
 layout: home
 ---
 
-# Introducción
+# Prototipo en construcción
 
-Esta es una plantilla para la creación de colecciones culturales digitales basada en Svelte.
+Esta plataforma es un ejercicio exploratorio para probar posibles estructuras de organización y navegación de la obra de Rosemberg Sandoval. Bajo la premisa Muerte, Dolor, Violencia, Marginalidad, este prototipo busca mapear cómo los ejes conceptuales de su trabajo (el cuerpo profanado, el espacio degradado y la memoria del dolor) pueden traducirse en una arquitectura digital coherente.
 
-Es similar a otros sistemas de computación mínima, como [Wax](https://minicomp.github.io/wax/) o [Collection Builder](https://collectionbuilder.github.io/), pero tiene como fin ser una herramienta educativa para las humanidades digitales acerca de conceptos esenciales relacionados con colecciones digitales (metadatos, ítems, protocolos, narrativas).
-
-En particular, Serie Mini tiene las siguientes características:
-
-- Interfaz en español
-- Es fácil de instalar (El código está basado en Svelte, no en Jekyll. No requiere contentedores de Docker)
-- Es fácil de usar (Tiene una interfaz CLI que guía en el proceso de configuración y todos los elementos de la colección se disponen en una carpeta particular)
-- Es fácil de publicar en Github Pages por defecto
+No es un archivo definitivo, sino una aproximación de clasificación. Se prueba aquí cómo relacionar registros visuales para revelar conexiones conceptuales entre sus performances. Este es un primer acercamiento técnico y conceptual, un modelo en construcción para entender cómo diseñar un sistema digital coherente con la radicalidad de Sandoval.

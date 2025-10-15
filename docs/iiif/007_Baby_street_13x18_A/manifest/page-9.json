@@ -1,0 +1,21 @@
+{
+  "id": "https://rr012345.github.io/rosemberg/iiif/007_Baby_street_13x18_A/manifest/page-9.json",
+  "items": [
+    {
+      "id": "https://rr012345.github.io/rosemberg/iiif/007_Baby_street_13x18_A/manifest/image-9.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://rr012345.github.io/rosemberg/iiif/007_Baby_street_13x18_A/manifest/canvas-9.json",
+      "body": {
+        "id": "https://rr012345.github.io/rosemberg/iiif/007_Baby_street_13x18_A/9/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 2126,
+        "width": 1535
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}
