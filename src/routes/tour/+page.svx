@@ -11,46 +11,57 @@ layout: page
   import VizTree from '$components/VizTree.svelte';
 </script>
 
-# Recorrido por la colección
+## Recorrido por la colección
 
-Esta colección de muestra recopila varias imágenes con representaciones alegóricas de América tomadas de [Rijksstudio](https://www.rijksmuseum.nl/en), la colección digital del Rijks Museum de Países Bajos. Todas las imágenes usadas están en el dominio público.
+Esta colección reúne un conjunto de performances realizadas por el artista __Rosemberg Sandoval__, cuyo trabajo se caracteriza por explorar los límites del cuerpo, la memoria y los contextos sociales marcados por la violencia, el dolor y la marginalidad. A través de acciones cargadas de simbolismo y materiales inusuales—desde vísceras humanas hasta mugre, lenguas o ropa usada—Sandoval cuestiona las estructuras de poder, el olvido institucional y las heridas invisibles de la historia.
 
-Usa este archivo para incluir contenido que permita hacer un recorrido por la colección.
+Cada performance documentada aquí no solo es un acto estético, sino también un gesto político. La selección refleja la evolución de su práctica artística a lo largo de varias décadas, desde intervenciones en espacios públicos hasta acciones realizadas en museos y morgues. Este recorrido invita a adentrarse en un territorio incómodo pero necesario, donde el arte se convierte en testimonio y resistencia.
 
-Para poner una imagen correspondiente a un ítem de la colección en este recorrido, usa el componente ItemPreview: 
+La obra de Rosemberg Sandoval se articula alrededor de gestos profundos que interpelan la condición humana en contextos de crisis social. A continuación, se presentan cuatro ejes curatoriales que permiten agrupar y leer sus performances según las tensiones conceptuales que las recorren:
 
-`<ItemPreview pid="PID" title="TÍTULO" alt="TEXTO ALTERNATIVO" page="PÁGINA DEL ÍTEM (opcional)">`
+# Muerte
 
-Así se mostrará una imagen que, si se cliquea, te llevará al elemento de la colección correspondiente.
+Actos que confrontan la mortalidad y utilizan restos humanos o símbolos orgánicos para interrumpir el espacio social, cuestionando los límites entre lo sagrado, lo político y lo desechable.
 
-Así:
+<ItemPreview pid="001_10 de marzo_13x18_A" title="Muerte" />
 
-<ItemPreview pid="AdriaenCollaert" title="Por Adriaen Collaert" />
+# Violencia
 
-También puedes usar urls de imágenes externas con normalidad en el formato Markdown.
+Performances que materializan la agresión estructural e histórica a través de gestos simbólicos, donde el cuerpo del artista o de otros se convierte en testimonio de un orden social fracturado.
 
-## Elementos interactivos
+<ItemPreview pid="006_Bolivar_ahora_13x18" title="Violencia" />
 
-## Gráfico de barras
+# Dolor
 
-`<VizBarChart key="columna con valor categórico" top="numero de barras con mayor conteo (opcional, por defecto 10)/>`
+Acciones que exploran el sufrimiento físico y emocional como experiencia límite, utilizando la automutilación, la sangre y el ritual para hacer visible lo que normalmente permanece oculto.
 
-<VizBarChart key="autor"/>
+<ItemPreview pid="006_Yage_13x18_A" title="Dolor" />
 
-## Histograma
+# Marginalidad
 
-`<VizBarChart key="columna con valor numérico" />`
+Obras que visibilizan a los excluidos interviniendo espacios institucionales con materiales considerados _profanos_, como mugre o ropa usada, para criticar la indiferencia social.
+<ItemPreview pid="008_Mugre_13x18_A" title="Marginalidad" />
+
+## Frecuencia de obras por gesto conceptual
+
+Este gráfico de barras cuantifica la presencia de los cuatro gestos curatoriales principales: _Muerte, Violencia, Dolor y Marginalidad_ en la colección documentada de performances. La distribución visual refleja los énfasis temáticos recurrentes en la práctica artística de Rosemberg Sandoval, permitiendo identificar de un vistazo los conceptos que han definido su trayectoria y que articulan su cuestionamiento sobre el cuerpo, la memoria y los límites sociales.
+
+<VizBarChart key="gesto"/>
+
+## Distribución temporal de las performances
+
+Este histograma muestra la frecuencia de obras realizadas por año, revelando los periodos de mayor producción artística en la trayectoria de _Rosemberg Sandoval_. La distribución temporal permite identificar momentos clave de creación, pausas y la evolución cronológica de su trabajo, ofreciendo una perspectiva histórica sobre la continuidad y los intervalos entre sus intervenciones.
 
 <VizHistogram key="fecha"/>
 
-## Árbol jerárquico
+## Mapa conceptual de la obra
 
-`<VizTree key="Array con columnas con valores categóricos" metadata="metadatos prefiltrados (opcional)"/>`
+Este árbol genealógico organiza visualmente la producción artística de _Rosemberg Sandoval_ a través de cuatro capas de información: el artista como raíz, su evolución temporal, los gestos conceptuales que definen su obra y las performances específicas como frutos finales. La estructura permite rastrear cómo se relacionan cronología, temas y obras concretas, revelando patrones creativos y la consistencia de su exploración conceptual a lo largo del tiempo.
 
-<VizTree keys={["autor", "label"]}/>
+<VizTree keys={["autor", "fecha", "gesto", "label"]}/>
 
-## Línea de tiempo
+## Línea de tiempo de las performances
 
-`<VizTimeline dateKey="columna con fecha" metadata="metadatos prefiltrados (opcional)">`
+Esta línea de tiempo despliega cronológicamente la trayectoria performática de _Rosemberg Sandoval_, permitiendo observar la evolución, frecuencia y posibles agrupaciones temáticas de sus obras a lo largo de las décadas. La visualización destaca los periodos de mayor actividad creativa y ofrece una perspectiva diacrónica para comprender la continuidad y transformación de sus estrategias conceptuales y gestos artísticos en el tiempo.
 
 <VizTimeline dateKey="fecha"/>
