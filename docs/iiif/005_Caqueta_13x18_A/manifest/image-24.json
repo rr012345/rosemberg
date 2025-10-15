@@ -1,0 +1,15 @@
+{
+  "id": "https://rr012345.github.io/rosemberg/iiif/005_Caqueta_13x18_A/manifest/image-24.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://rr012345.github.io/rosemberg/iiif/005_Caqueta_13x18_A/manifest/canvas-24.json",
+  "body": {
+    "id": "https://rr012345.github.io/rosemberg/iiif/005_Caqueta_13x18_A/24/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 2126,
+    "width": 1535
+  }
+}
